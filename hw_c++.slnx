@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="My Console App1/My Console App1.vcxproj" Id="6b2c1114-33de-4083-97ae-704624820bbc" />
+  <Project Path="hw20/hw20.vcxproj" Id="16b6b7f9-b0ca-4b3d-bce9-bc8bf9429251" />
 </Solution>
